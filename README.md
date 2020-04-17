@@ -1,4 +1,4 @@
-<center>欢迎来到的[Andysun06](https://www.luogu.com.cn/user/70299)个人网站</center>
+<center>欢迎来到的 [Andysun06](https://www.luogu.com.cn/user/70299) 个人网站</center>
 
 ## 关于我
 - 坐标：广东东莞

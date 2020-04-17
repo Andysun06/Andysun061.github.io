@@ -5,7 +5,7 @@
 - 年级：初二
 - 我的QQ：944898918
 - 我的洛谷账号：[Andysun06](https://www.luogu.com.cn/user/70299)
-- 我的洛谷博客：[这里](https://www.luogu.com.cn/blog/andysun123)
+- 我的洛谷博客：[这里](https://www.luogu.com.cn/blog/andysun123/)
 - 我的CSDN博客：[这里](https://blog.csdn.net/a_n_d_y_s_u_n__)
 
 ## 关于此网站：
